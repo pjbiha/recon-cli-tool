@@ -29,3 +29,6 @@ python recon.py google.com
 - Retrieves WHOIS domain information  
 - Shows IP geolocation (country, region, city)
 
+## Proof of Work:
+
+![image](https://github.com/user-attachments/assets/9488151f-95ac-4df2-a2f7-f22ce69b0c67)
